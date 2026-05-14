@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=38BDAE&center=true&vCenter=true&width=500&height=70&lines=Full-Stack+Developer;Computer+Science+Student;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
   <p>
-    <samp><b>🔭 Graduate from <b>Graphic Era Hill University</b>  B.Tech (CSE) | 
+    <samp><b>🔭 Graduate with no Job from <b>Graphic Era Hill University</b>  B.Tech (CSE) | 
     💼 Building scalable applications | 
     🚀 Full-stack development with web & AI</b></samp>
   </p>
